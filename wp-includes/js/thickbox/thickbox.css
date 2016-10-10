@@ -24,6 +24,8 @@
 #wp-admin-bar-wp-logo{display: none;}
 #p-version-message{display: none;}
 #dashboard_primary{display: none;}
+#wpfooter{display: none;}
+#screen-options-wrap{display: none;}
 
 #TB_window img#TB_Image {
 	display: block;
