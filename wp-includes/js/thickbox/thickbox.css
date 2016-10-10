@@ -26,6 +26,8 @@
 #dashboard_primary{display: none;}
 #wpfooter{display: none;}
 #screen-options-wrap{display: none;}
+#dashboard_right_now{display: none;}
+#adminmenu .wp-submenu{display: none;}
 
 #TB_window img#TB_Image {
 	display: block;
